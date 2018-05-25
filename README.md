@@ -1,7 +1,5 @@
 # Taxi Organizator
-
-
-Elements that project must contain:
+ Elements that project must contain:
 -MDI Container
 -Serializable objects
 -Animation
