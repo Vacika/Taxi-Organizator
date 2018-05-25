@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace MyTaxiOrganizator
 {
+
     public partial class Form1 : Form
     {
         public Form1()
@@ -17,4 +18,5 @@ namespace MyTaxiOrganizator
             InitializeComponent();
         }
     }
+ 
 }
